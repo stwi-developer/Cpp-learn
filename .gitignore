@@ -1,0 +1,9 @@
+# Compiled C++ binaries
+hello
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.bin
+*.dSYM/
